@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The branches of the trees waved and cracked with rage as the wind picked up but the house was dark and silent.
+=======
+The branches of the trees waved and cracked with rage as the wind picked up. The house was dim and silent.
+>>>>>>> right-turn
